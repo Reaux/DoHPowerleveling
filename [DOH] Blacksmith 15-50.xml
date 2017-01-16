@@ -10,7 +10,7 @@
 					<ExLog Color="#FFFF00" Name="PowerLeveLing &Version;"  Message="Blacksmith 15-20"/>
 					<While Condition="Core.Player.ClassLevel &lt; 20 and HasHqItem(5092)">
 						<TeleportTo Name="Limsa Lominsa Lower Decks" AetheryteId="8" />
-						<ExMoveTo XYZ="-83.80186, 17.99993, -35.65908"/>
+						<ExMoveTo XYZ="-83.80186, 22.99993, -25.65908"/>
 						<ExPickupGuildLeve leveIds="161" leveType="Tradecraft" npcId="1000970" npcLocation="-11.09136, 40.01701, -10.87936" />
 						<TeleportTo Name="Aleport" AetheryteId="14" />
 						<ExTurnInGuildLeve npcId="1001793" npcLocation="292.0781, -24.99481, 235.584" />
@@ -24,7 +24,7 @@
 					<ExLog Color="#FFFF00" Name="PowerLeveLing &Version;"  Message="Blacksmith 20-25"/>
 					<While Condition="Core.Player.ClassLevel &lt; 25 and HasHqItem(2537)">
 						<TeleportTo Name="Limsa Lominsa Lower Decks" AetheryteId="8" />
-						<ExMoveTo XYZ="-83.80186, 17.99993, -35.65908"/>
+						<ExMoveTo XYZ="-83.80186, 22.99993, -25.65908"/>
 						<ExPickupGuildLeve leveIds="167" leveType="Tradecraft" npcId="1000970" npcLocation="-11.09136, 40.01701, -10.87936" />
 						<TeleportTo Name="Quarrymill" AetheryteId="5" />
 						<ExTurnInGuildLeve npcId="1001220" npcLocation="167.6966, 9.243, -45.80192" />
@@ -38,7 +38,7 @@
 					<ExLog Color="#FFFF00" Name="PowerLeveLing &Version;"  Message="Blacksmith 25-30"/>
 					<While Condition="Core.Player.ClassLevel &lt; 30 and HasHqItem(1625)">
 						<TeleportTo Name="Limsa Lominsa Lower Decks" AetheryteId="8" />
-						<ExMoveTo XYZ="-83.80186, 17.99993, -35.65908"/>
+						<ExMoveTo XYZ="-83.80186, 22.99993, -25.65908"/>
 						<ExPickupGuildLeve leveIds="172" leveType="Tradecraft" npcId="1000970" npcLocation="-11.09136, 40.01701, -10.87936" />
 						<TeleportTo Name="Quarrymill" AetheryteId="5" />
 						<ExTurnInGuildLeve npcId="1001220" npcLocation="167.6966, 9.243, -45.80192" />
@@ -52,7 +52,7 @@
 					<ExLog Color="#FFFF00" Name="PowerLeveLing &Version;"  Message="Blacksmith 30-35"/>
 					<While Condition="Core.Player.ClassLevel &lt; 35 and HasHqItem(1633)">
 						<TeleportTo Name="Limsa Lominsa Lower Decks" AetheryteId="8" />
-						<ExMoveTo XYZ="-83.80186, 17.99993, -35.65908"/>
+						<ExMoveTo XYZ="-83.80186, 22.99993, -25.65908"/>
 						<ExPickupGuildLeve leveIds="177" leveType="Tradecraft" npcId="1000970" npcLocation="-11.09136, 40.01701, -10.87936" />
 						<TeleportTo Name="Costa del Sol" AetheryteId="11" />
 						<ExTurnInGuildLeve npcId="1004345" npcLocation="450.1401, 17.7485, 470.3299" />
@@ -66,7 +66,7 @@
 					<ExLog Color="#FFFF00" Name="PowerLeveLing &Version;"  Message="Blacksmith 35-40"/>
 					<While Condition="Core.Player.ClassLevel &lt; 40 and HasHqItem(1643)">
 						<TeleportTo Name="Limsa Lominsa Lower Decks" AetheryteId="8" />
-						<ExMoveTo XYZ="-83.80186, 17.99993, -35.65908"/>
+						<ExMoveTo XYZ="-83.80186, 22.99993, -25.65908"/>
 						<ExPickupGuildLeve leveIds="183" leveType="Tradecraft" npcId="1000970" npcLocation="-11.09136, 40.01701, -10.87936" />
 						<TeleportTo Name="Camp Dragonhead" AetheryteId="23" />
 						<ExTurnInGuildLeve npcId="1002385" npcLocation="239.1644, 222.2132, 327.758" />
@@ -80,7 +80,7 @@
 					<ExLog Color="#FFFF00" Name="PowerLeveLing &Version;"  Message="Blacksmith 40-45"/>
 					<While Condition="Core.Player.ClassLevel &lt; 45 and HasHqItem(2542)">
 						<TeleportTo Name="Limsa Lominsa Lower Decks" AetheryteId="8" />
-						<ExMoveTo XYZ="-83.80186, 17.99993, -35.65908"/>
+						<ExMoveTo XYZ="-83.80186, 22.99993, -25.65908"/>
 						<ExPickupGuildLeve leveIds="189" leveType="Tradecraft" npcId="1000970" npcLocation="-11.09136, 40.01701, -10.87936" />
 						<TeleportTo Name="Camp Dragonhead" AetheryteId="23" />
 						<ExTurnInGuildLeve npcId="1002402" npcLocation="-405.6902, 210.7882, -267.7335" />
@@ -94,7 +94,7 @@
 					<ExLog Color="#FFFF00" Name="PowerLeveLing &Version;"  Message="Blacksmith 45-50"/>
 					<While Condition="Core.Player.ClassLevel &lt; 50 and HasHqItem(2427)">
 						<TeleportTo Name="Limsa Lominsa Lower Decks" AetheryteId="8" />
-						<ExMoveTo XYZ="-83.80186, 17.99993, -35.65908"/>
+						<ExMoveTo XYZ="-83.80186, 22.99993, -25.65908"/>
 						<ExPickupGuildLeve leveIds="195" leveType="Tradecraft" npcId="1000970" npcLocation="-11.09136, 40.01701, -10.87936" />
 						<TeleportTo Name="Revenant's Toll" AetheryteId="24" />
 						<ExTurnInGuildLeve npcId="1004349" npcLocation="445, -4.631977, -453.22" />
